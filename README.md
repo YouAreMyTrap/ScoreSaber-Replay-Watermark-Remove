@@ -1,5 +1,5 @@
 # ScoreSaber-Replay-Watermark-Remove
-Plugin to remove the water mark from scoresaber in replays.
+Plugin to remove the watermark from scoresaber in replays.
 
 Instalation:
 
